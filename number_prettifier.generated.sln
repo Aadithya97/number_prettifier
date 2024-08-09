@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#", "c#", "{C64C66D7-305A-443B-9444-620B20A833F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberPrettifier", "c#\NumberPrettifier\NumberPrettifier.csproj", "{38CCC1DA-FB4A-4F07-B8FD-D1494B25E263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CCC1DA-FB4A-4F07-B8FD-D1494B25E263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CCC1DA-FB4A-4F07-B8FD-D1494B25E263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CCC1DA-FB4A-4F07-B8FD-D1494B25E263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CCC1DA-FB4A-4F07-B8FD-D1494B25E263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38CCC1DA-FB4A-4F07-B8FD-D1494B25E263} = {C64C66D7-305A-443B-9444-620B20A833F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08AA7E4D-8ED8-405F-81F9-07C0A07CDCA7}
+	EndGlobalSection
+EndGlobal

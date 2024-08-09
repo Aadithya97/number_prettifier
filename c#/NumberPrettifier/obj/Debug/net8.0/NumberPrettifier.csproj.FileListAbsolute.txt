@@ -1,0 +1,14 @@
+C:\number_prettifier\c#\NumberPrettifier\bin\Debug\net8.0\NumberPrettifier.exe
+C:\number_prettifier\c#\NumberPrettifier\bin\Debug\net8.0\NumberPrettifier.deps.json
+C:\number_prettifier\c#\NumberPrettifier\bin\Debug\net8.0\NumberPrettifier.runtimeconfig.json
+C:\number_prettifier\c#\NumberPrettifier\bin\Debug\net8.0\NumberPrettifier.dll
+C:\number_prettifier\c#\NumberPrettifier\bin\Debug\net8.0\NumberPrettifier.pdb
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.AssemblyInfoInputs.cache
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.AssemblyInfo.cs
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.csproj.CoreCompileInputs.cache
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.dll
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\refint\NumberPrettifier.dll
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.pdb
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\NumberPrettifier.genruntimeconfig.cache
+C:\number_prettifier\c#\NumberPrettifier\obj\Debug\net8.0\ref\NumberPrettifier.dll
