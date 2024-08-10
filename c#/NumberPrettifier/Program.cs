@@ -28,3 +28,31 @@ namespace NumberPrettifier
         }
     }
 }
+
+
+
+// Without Math Libraries:
+//
+// public static string PrettifyNumber(double number)
+// {
+//     string sign = number < 0 ? "-" : "";
+//     number = Math.Abs(number); 
+
+//     if (number < 1_000_000)
+//         return $"{sign}{number}";
+//     else if (number < 1_000_000_000)
+//     {
+//         double prettyNumber = ((int)(number / 1_000_000 * 10)) / 10.0;
+//         return $"{sign}{prettyNumber:g}M";
+//     }
+//     else if (number < 1_000_000_000_000)
+//     {
+//         double prettyNumber = ((int)(number / 1_000_000_000 * 10)) / 10.0;
+//         return $"{sign}{prettyNumber:g}B";
+//     }
+//     else
+//     {
+//         double prettyNumber = ((int)(number / 1_000_000_000_000 * 10)) / 10.0;
+//         return $"{sign}{prettyNumber:g}T";
+//     }
+// }

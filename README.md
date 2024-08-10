@@ -1,7 +1,7 @@
 # Number Prettifier
 ## Overview
 The idea behind the "Number Prettifier" is to make large numbers easier to read by shortening them with suffixes like M for million, B for billion, and T for trillion.
-This folder contains the Python and C# implementation of the number prettifier.
+This folder contains the Python and C# implementation of the number prettifier. I've also included commented code at the bottom of both the Python and C# implementations to demonstrate how the prettification logic can be achieved without using libraries like 'math'.
 
 ## Additional Work
 Since the requirements specify that there will be room to expand on this idea in future rounds, I have avoided implementing anything beyond the basic functionality in the requirement samples. For instance:
