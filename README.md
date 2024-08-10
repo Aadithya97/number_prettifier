@@ -29,13 +29,19 @@ The prettifier function accepts any numeric input. It determines an appropriate 
 number_prettifier/
 │
 ├── csharp/
+│   │
 │   ├── NumberPrettifier/
+│   │   │
 │   │   └── Program.cs
+│   │
 │   └── NumberPrettifier.Tests/
+│       │
 │       └── UnitTest1.cs
 │
 ├── python/
+│   │
 │   ├── prettifier.py
+│   │
 │   └── test_prettifier.py
 │
 └── README.md
