@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberPrettifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d97dab368e689afcafaa793929db11e2c075679")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberPrettifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberPrettifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
