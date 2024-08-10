@@ -26,25 +26,7 @@ The prettifier function accepts any numeric input. It determines an appropriate 
 - I used NUnit for the testing framework in C# since I have experience using it at Siemens Healthineers.
 
 ## Project Structure:
-number_prettifier/
-│
-├── csharp/
-│   │
-│   ├── NumberPrettifier/
-│   │   │
-│   │   └── Program.cs
-│   │
-│   └── NumberPrettifier.Tests/
-│       │
-│       └── UnitTest1.cs
-│
-├── python/
-│   │
-│   ├── prettifier.py
-│   │
-│   └── test_prettifier.py
-│
-└── README.md
+The project contains two main directories: "c#" and "python". The C# implementation contains two subdirectories: "NumberPrettifier" (with a Program.cs file) and "NumberPrettifier.Tests" (with a UnitTest1.cs file). The Python implementation is in the "python" folder, containing two files: prettifier.py and test_prettifier.py. A README.md file is located at the root level of the project.
 
 ## Running Tests:
 Python:
